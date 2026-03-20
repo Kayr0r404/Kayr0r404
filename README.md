@@ -1,4 +1,4 @@
-# Hi 👋, I'm Karabo Mahlare
+# Hi , I'm Karabo Mahlare
 
 🎓 Applied Mathematics Honours Student  
 💻 Software Developer | Data Scientist in Progress  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 My Journey
+##  My Journey
 
 I started my journey in **Mathematical Sciences**, where I built a strong foundation in problem-solving, modelling, and analytical thinking.  
 Over time, I transitioned into **software development**, where I apply these skills to build real-world systems.
@@ -19,7 +19,7 @@ Through programs like **ALX** and hands-on projects, I’ve developed experience
 
 ---
 
-## 💡 What I’ve Learned
+##  What I’ve Learned
 
 ### 🔹 Software Engineering
 - Writing clean, modular, and maintainable code  
@@ -50,7 +50,7 @@ Through programs like **ALX** and hands-on projects, I’ve developed experience
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages:**  
 Python | JavaScript | C | MATLAB  
@@ -69,7 +69,7 @@ Git | Docker | REST APIs | Babel | Mocha | ESLint
 
 ---
 
-## 📌 Key Projects & Experience
+## Key Projects & Experience
 
 ### 🛒 E-commerce Platform
 - Built a full-stack application using React and Flask  
@@ -87,13 +87,13 @@ Git | Docker | REST APIs | Babel | Mocha | ESLint
 - Developed reusable backend architectures  
 - Worked on file handling and server logic in Node.js  
 
-### 📊 Numerical Methods Research
+### Numerical Methods Research
 - Applying computational techniques in finance  
 - Solving real-world problems using numerical analysis  
 
 ---
 
-## 🌱 What I’m Currently Working On
+##  What I’m Currently Working On
 
 - Building production-grade systems (API Gateway, microservices)  
 - Improving system design and scalability  
@@ -101,7 +101,7 @@ Git | Docker | REST APIs | Babel | Mocha | ESLint
 
 ---
 
-## 🎯 Goals (Next 3–5 Years)
+##  Goals (Next 3–5 Years)
 
 - Become a **well-rounded Software Engineer**  
 - Specialize in **backend systems & distributed architectures**  
@@ -110,14 +110,14 @@ Git | Docker | REST APIs | Babel | Mocha | ESLint
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
-- 💼 LinkedIn: [Your LinkedIn]
-- 📧 Email: [Your Email]
+- 💼 LinkedIn: https://www.linkedin.com/in/karabo-mahlare/
+- 📧 Email: mahlarekarabo.702@gmail.com
 
 ---
 
-## ⚡ Personal Insight
+## Personal Insight
 
 I enjoy breaking down complex problems into simple, logical solutions — whether in mathematics or software.  
 For me, coding is not just about building apps, but about **creating systems that solve meaningful problems**.
