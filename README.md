@@ -1,8 +1,8 @@
 # Hi, I'm Karabo Mahlare
 
-🎓 Mathematics Graduate 
-💻 Software Developer | Full Stack Developer | AI Engineer 
-📍 Johannesburg, South Africa  
+🎓 Mathematics Graduate   
+💻 Software Developer | Full Stack Developer | AI Engineer   
+📍 Johannesburg, South Africa     
 
 ---
 
