@@ -1,123 +1,151 @@
-# Hi , I'm Karabo Mahlare
+# Hi, I'm Karabo Mahlare
 
-🎓 Applied Mathematics Honours Student  
-💻 Software Developer | Data Scientist in Progress  
+🎓 Mathematics Graduate 
+💻 Software Developer | Full Stack Developer | AI Engineer 
 📍 Johannesburg, South Africa  
 
 ---
 
-##  My Journey
+## My Journey
 
-I started my journey in **Mathematical Sciences**, where I built a strong foundation in problem-solving, modelling, and analytical thinking.  
-Over time, I transitioned into **software development**, where I apply these skills to build real-world systems.
+I started in **Mathematical Sciences**, where I developed strong analytical and problem-solving skills.  
+I’ve since transitioned into **software engineering**, focusing on backend systems and scalable architectures.
 
-Through programs like **ALX** and hands-on projects, I’ve developed experience in:
-- Designing backend systems and APIs  
-- Building full-stack web applications  
-- Working with databases and scalable architectures  
-- Applying numerical methods in finance and computation  
+My work is centered around building systems that are structured, maintainable, and production-ready.
 
 ---
 
-##  What I’ve Learned
+## Current Focus: Microservices Architecture & API Gateway
 
-### 🔹 Software Engineering
-- Writing clean, modular, and maintainable code  
-- Designing RESTful APIs and microservices  
-- Structuring scalable backend systems  
+I am currently designing and developing a **microservices-based system** with a strong focus on scalability, modularity, and real-world deployment readiness.
 
-### 🔹 Backend Development
-- Building APIs with **Flask** and **FastAPI**  
-- Implementing authentication using JWT  
-- Connecting distributed services (Auth + User services)  
-- Designing production-like API architectures  
+### Architecture Overview
 
-### 🔹 Frontend Development
-- Creating dynamic UIs using **React**  
-- Managing routing with React Router  
-- Handling state and user interactions  
+The system is structured into independent services, each responsible for a specific domain:
 
-### 🔹 Databases & Data
-- Designing relational databases  
-- Using **SQLAlchemy ORM** for abstraction  
-- Managing data flow between services  
+- **Authentication Service**
+  - Handles login and registration
+  - Issues and validates JWT tokens
+  - Manages access control
 
-### 🔹 Data Science & Mathematics
-- Mathematical modelling  
-- Numerical methods for finance  
-- Using Python (NumPy, Pandas) for computation  
-- Applying statistical thinking to real-world problems  
+- **User Service**
+  - Manages user profiles and data
+  - Handles updates and user-specific operations
+  - Works in coordination with the Auth service for secure access
+
+- **API Gateway (In Progress)**
+  - Acts as a single entry point for all client requests
+  - Routes requests to appropriate services
+  - Handles authentication verification before forwarding requests
+
+---
+
+### Key Concepts I’m Implementing
+
+####  Service-to-Service Communication
+- Secure communication between Auth and User services  
+- Token validation across services  
+- Separation of concerns while maintaining integration  
+
+####  API Gateway Design
+- Centralized routing layer  
+- Request forwarding and response aggregation  
+- Middleware for authentication and logging  
+
+####  Authentication Flow
+1. Client logs in via Auth Service  
+2. Auth Service returns JWT token  
+3. Client sends token with each request  
+4. API Gateway validates token  
+5. Request is forwarded to the appropriate service  
+
+#### Scalability & Modularity
+- Services can be deployed independently  
+- Each service has its own responsibility and logic  
+- System designed to scale horizontally  
+
+---
+
+###  Technologies Used
+
+- **FastAPI** for high-performance backend services  
+- **Flask** for modular service development  
+- **Node.js / Express** for API structuring  
+- **JWT** for authentication  
+- **SQLAlchemy** for database abstraction  
+
+---
+
+###  What I’m Learning Through This
+
+- Designing **production-grade backend systems**  
+- Structuring **API Gateways similar to real-world systems (e.g., Netflix, LinkedIn)**  
+- Handling **distributed system challenges**  
+- Managing authentication across multiple services  
+- Building systems that are **scalable, secure, and maintainable**  
 
 ---
 
 ##  Tech Stack
 
 **Languages:**  
-Python | JavaScript | C | MATLAB  
+Python | Java | JavaScript | TypeScript | C | MATLAB  
 
 **Frontend:**  
 React  
 
 **Backend:**  
-Flask | FastAPI | Node.js  
+FastAPI | Flask | Node.js | Express  
 
 **Database:**  
-PostgreSQL | MySQL  
+PostgreSQL | MySQL  | MongoDB | Pinecone
 
 **Tools:**  
 Git | Docker | REST APIs | Babel | Mocha | ESLint  
 
 ---
 
-## Key Projects & Experience
+##  Key Projects
 
 ### 🛒 E-commerce Platform
-- Built a full-stack application using React and Flask  
-- Implemented user authentication (JWT-based)  
-- Designed product, cart, and order systems  
-- Integrated payment gateway (Stripe - in progress)
+- Full-stack system built with React and Flask  
+- JWT-based authentication  
+- Product, cart, and order management  
+- Stripe integration (in progress)
 
-### 🔐 Authentication & User Services
-- Developed separate microservices for auth and user management  
-- Designed secure login and registration systems  
-- Explored service-to-service communication  
-
-### ⚙️ API & Backend Systems
-- Built structured Express servers with controllers and routing  
-- Developed reusable backend architectures  
-- Worked on file handling and server logic in Node.js  
-
-### Numerical Methods Research
-- Applying computational techniques in finance  
-- Solving real-world problems using numerical analysis  
+### ⚙️ Backend Systems & APIs
+- Structured Express servers with controllers  
+- Built reusable backend architectures  
+- Implemented file handling and server-side logic  
 
 ---
 
-##  What I’m Currently Working On
+## Current Goals
 
-- Building production-grade systems (API Gateway, microservices)  
-- Improving system design and scalability  
-- Deepening my knowledge in data science and machine learning  
+- Build a **production-ready API Gateway**  
+- Implement **rate limiting, caching, and logging**  
+- Containerize services using Docker  
+- Move towards **cloud deployment**  
 
 ---
 
-##  Goals (Next 3–5 Years)
+##  Career Direction
 
-- Become a **well-rounded Software Engineer**  
-- Specialize in **backend systems & distributed architectures**  
-- Apply **data science in finance and real-world systems**  
-- Contribute to impactful, large-scale applications  
+I am focused on becoming a **Backend Engineer specializing in distributed systems**, with strong skills in:
+- Microservices architecture  
+- API design and system integration  
+- Scalable backend infrastructure  
 
 ---
 
 ## Let’s Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/karabo-mahlare/
-- 📧 Email: mahlarekarabo.702@gmail.com
+-  LinkedIn: https://www.linkedin.com/in/karabo-mahlare/
+- Email: mahlarekarabo.702@gmail.com
 
 ---
 
 ## Personal Insight
 
-I enjoy breaking down complex problems into simple, logical solutions — whether in mathematics or software.  
-For me, coding is not just about building apps, but about **creating systems that solve meaningful problems**.
+I enjoy designing systems where each component has a clear responsibility and works seamlessly with others.  
+My goal is to build software that is not only functional, but structured for scale.
