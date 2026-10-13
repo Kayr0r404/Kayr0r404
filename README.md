@@ -2,143 +2,146 @@
 
 <h3 align="left">Software Engineer | Backend & AI Engineering</h3>
 
-<p align="left">
-  Mathematics graduate and software engineer based in South Africa, with a focus on
-  backend development, AI-powered applications, APIs, databases, and scalable software systems.
+<p>
+Software engineer with a background in Mathematical Sciences, focused on building
+backend systems, APIs, data-driven applications, and AI-powered solutions.
+I enjoy solving complex problems and designing software that is maintainable,
+scalable, and production-ready.
 </p>
 
-<!-- GitHub Stats -->
-<div align="left">
+---
+
+<h2>About Me</h2>
+
+- 💻 Building backend services and AI-powered applications
+- 🧠 Interested in Software Architecture, AI Engineering and Data Engineering
+- ⚙️ Experience with REST APIs, microservices, databases and distributed systems
+- 🤖 Exploring RAG, LLM applications and AI observability
+- 🐳 Working with Docker, CI/CD and Linux-based development environments
+- 🎓 Background in Mathematical Sciences and Software Engineering
+
+---
+
+<h2>Technical Skills</h2>
+
+<h3>Languages</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c" />
+</p>
+
+<h3>Backend & Frameworks</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" />
+</p>
+
+<h3>Frontend</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+<h3>Databases</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
+</p>
+
+<h3>DevOps & Tools</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,maven" />
+</p>
+
+<h3>AI & Data</h3>
+
+<p>
+Python • RAG • LLM Integration • Vector Databases • Pinecone •
+Langfuse • Document Processing • AI APIs
+</p>
+
+---
+
+<h2>Featured Projects</h2>
+
+### 🤖 AI Knowledge Assistant
+RAG-based application for retrieving and answering questions from documents
+using LLMs and vector search.
+
+`Python` `RAG` `MongoDB` `Pinecone` `Docker`
+
+### ⚙️ Microservices Architecture
+Backend system built around independently deployable services with
+authentication, API routing, databases, and service-to-service communication.
+
+`Python` `FastAPI` `JWT` `PostgreSQL` `Docker`
+
+### 🚚 LogisticsConnect
+Service-oriented logistics system implementing REST APIs, persistent data,
+and asynchronous communication.
+
+`Java` `Javalin` `ActiveMQ` `Maven` `SQL`
+
+### 🌐 Full-Stack Applications
+Database-driven applications incorporating REST APIs, authentication,
+frontend interfaces, and backend services.
+
+`React` `Node.js` `Flask` `PostgreSQL`
+
+---
+
+<h2>Engineering Interests</h2>
+
+<p>
+Backend Engineering • Artificial Intelligence • Distributed Systems •
+Data Engineering • System Design • Cloud Computing • DevOps
+</p>
+
+---
+
+<h2>Currently Exploring</h2>
+
+<p>
+🏗️ Production-ready backend architecture<br>
+🤖 AI application infrastructure<br>
+📊 Data engineering pipelines<br>
+☁️ Cloud-native application deployment<br>
+🔄 CI/CD and software delivery
+</p>
+
+---
+
+<h2>GitHub Activity</h2>
+
+<p>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Kayr0r404&show_icons=true&locale=en&theme=transparent"
-    alt="Karabo's GitHub stats"
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent"
+    height="165"
   />
 
-  <br/><br/>
-
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Kayr0r404&show_icons=true&locale=en&layout=compact&theme=transparent"
-    alt="Karabo's most used languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent"
+    height="165"
   />
-</div>
-
-<h3 align="left">Languages & Technologies</h3>
-
-<p align="left">
-
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-         alt="python" width="40" height="40"/>
-  </a>
-
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-         alt="java" width="40" height="40"/>
-  </a>
-
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-         alt="javascript" width="40" height="40"/>
-  </a>
-
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-         alt="typescript" width="40" height="40"/>
-  </a>
-
-  <!-- FastAPI -->
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"
-         alt="fastapi" width="40" height="40"/>
-  </a>
-
-  <!-- Flask -->
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
-         alt="flask" width="40" height="40"/>
-  </a>
-
-  <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-         alt="nodejs" width="40" height="40"/>
-  </a>
-
-  <!-- React -->
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-         alt="react" width="40" height="40"/>
-  </a>
-
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
-         alt="postgresql" width="40" height="40"/>
-  </a>
-
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
-         alt="mongodb" width="40" height="40"/>
-  </a>
-
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
-         alt="docker" width="40" height="40"/>
-  </a>
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-         alt="git" width="40" height="40"/>
-  </a>
-
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-         alt="linux" width="40" height="40"/>
-  </a>
-
 </p>
 
-<h3 align="left">Engineering Focus</h3>
+---
+
+<h2>Connect</h2>
 
 <p>
-  Backend Development • REST APIs • Microservices • System Design •
-  AI Engineering • RAG • LLM Integration • Data Engineering •
-  Docker • CI/CD
-</p>
+<a href="https://www.linkedin.com/in/karabo-mahlare/">
+  <img src="https://img.shields.io/badge/LinkedIn-Karabo%20Mahlare-blue?style=flat&logo=linkedin" />
+</a>
 
-<h3 align="left">Currently Working On</h3>
-
-<p>
-  Building backend and AI-powered applications while strengthening my skills
-  in distributed systems, data engineering, cloud deployment, and production-ready software architecture.
-</p>
-
-<h3 align="left">Connect With Me</h3>
-
-<p>
-  💼 LinkedIn:
-  <a href="https://www.linkedin.com/in/karabo-mahlare/">
-    Karabo Mahlare
-  </a>
+<a href="mailto:mahlarekarabo.702@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail" />
+</a>
 </p>
 
 <p>
-  📫 Email:
-  <strong>mahlarekarabo.702@gmail.com</strong>
-</p>
-
-<!-- Profile Views -->
-<p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&style=flat"
-    alt="Profile views"
+    src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&style=flat"
   />
 </p>
