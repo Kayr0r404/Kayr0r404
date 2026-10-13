@@ -116,12 +116,12 @@ Data Engineering • System Design • Cloud Computing • DevOps
 
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api?username=Kayr0r404&show_icons=true&theme=transparent"
     height="165"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayr0r404&layout=compact&theme=transparent"
     height="165"
   />
 </p>
