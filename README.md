@@ -1,82 +1,144 @@
-# Karabo Mahlare
+<h1 align="left">Hi, I'm Karabo Mahlare 👋🏽</h1>
 
-### Software Engineer | Backend Development | AI Engineering
+<h3 align="left">Software Engineer | Backend & AI Engineering</h3>
 
-Johannesburg, South Africa  
-Mathematical Sciences Graduate | Software Engineering @ WeThinkCode_
+<p align="left">
+  Mathematics graduate and software engineer based in South Africa, with a focus on
+  backend development, AI-powered applications, APIs, databases, and scalable software systems.
+</p>
 
-Software engineer with a background in mathematical sciences and experience building **backend services, APIs, database-driven applications, and AI-enabled solutions**.
+<!-- GitHub Stats -->
+<div align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&theme=transparent"
+    alt="Karabo's GitHub stats"
+  />
 
-My technical interests include backend engineering, AI systems, distributed architectures, and building reliable software from development through deployment.
+  <br/><br/>
 
----
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact&theme=transparent"
+    alt="Karabo's most used languages"
+  />
+</div>
 
-## Technical Skills
+<h3 align="left">Languages & Technologies</h3>
 
-**Languages**  
-Python • Java • JavaScript • TypeScript • SQL • C
+<p align="left">
 
-**Backend & APIs**  
-FastAPI • Flask • Node.js • Express • Javalin • REST APIs • JWT
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+         alt="python" width="40" height="40"/>
+  </a>
 
-**Databases**  
-PostgreSQL • MySQL • MongoDB • SQLite • Pinecone
+  <!-- Java -->
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+         alt="java" width="40" height="40"/>
+  </a>
 
-**AI Engineering**  
-LLM Integration • Retrieval-Augmented Generation (RAG) • Vector Search • AI APIs • Langfuse
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+         alt="javascript" width="40" height="40"/>
+  </a>
 
-**DevOps & Development Tools**  
-Docker • Git • GitLab CI/CD • GitHub Actions • Linux • Maven
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+         alt="typescript" width="40" height="40"/>
+  </a>
 
-**Software Engineering**  
-Object-Oriented Programming • Data Structures & Algorithms • Microservices • API Design • System Design • CI/CD
+  <!-- FastAPI -->
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"
+         alt="fastapi" width="40" height="40"/>
+  </a>
 
----
+  <!-- Flask -->
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
+         alt="flask" width="40" height="40"/>
+  </a>
 
-## Areas of Focus
+  <!-- Node.js -->
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+         alt="nodejs" width="40" height="40"/>
+  </a>
 
-### Backend Engineering
-Designing and developing REST APIs, database-driven applications, authentication systems, and service-based architectures.
+  <!-- React -->
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+         alt="react" width="40" height="40"/>
+  </a>
 
-### AI Engineering
-Building applications that integrate LLMs, RAG pipelines, vector databases, document processing, and AI observability.
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+         alt="postgresql" width="40" height="40"/>
+  </a>
 
-### Software Architecture
-Exploring microservices, API gateways, service-to-service communication, asynchronous messaging, containerization, and scalable system design.
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+         alt="mongodb" width="40" height="40"/>
+  </a>
 
----
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+         alt="docker" width="40" height="40"/>
+  </a>
 
-## Selected Projects
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+         alt="git" width="40" height="40"/>
+  </a>
 
-### Microservices & API Architecture
-Backend architecture consisting of independently deployable services with authentication, API routing, database integration, and service-to-service communication.
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+         alt="linux" width="40" height="40"/>
+  </a>
 
-**Technologies:** Python, FastAPI, JWT, PostgreSQL, Docker
+</p>
 
-### AI Knowledge Assistant
-RAG-based application for retrieving information from documents using LLMs and vector search.
+<h3 align="left">Engineering Focus</h3>
 
-**Technologies:** Python, MongoDB, Pinecone, RAG, LLM APIs, Docker
+<p>
+  Backend Development • REST APIs • Microservices • System Design •
+  AI Engineering • RAG • LLM Integration • Data Engineering •
+  Docker • CI/CD
+</p>
 
-### Logistics Management System
-Service-oriented Java application incorporating REST APIs, persistent data, and asynchronous messaging.
+<h3 align="left">Currently Working On</h3>
 
-**Technologies:** Java, Javalin, ActiveMQ, Maven, SQL
+<p>
+  Building backend and AI-powered applications while strengthening my skills
+  in distributed systems, data engineering, cloud deployment, and production-ready software architecture.
+</p>
 
-### Full-Stack Applications
-Database-driven web applications incorporating authentication, REST APIs, frontend interfaces, and backend services.
+<h3 align="left">Connect With Me</h3>
 
-**Technologies:** React, Node.js, Flask, PostgreSQL
+<p>
+  💼 LinkedIn:
+  <a href="https://www.linkedin.com/in/karabo-mahlare/">
+    Karabo Mahlare
+  </a>
+</p>
 
----
+<p>
+  📫 Email:
+  <strong>mahlarekarabo.702@gmail.com</strong>
+</p>
 
-## Professional Interests
-
-Backend Engineering • AI Engineering • Software Architecture • Data Engineering • Distributed Systems
-
----
-
-## Contact
-
-**LinkedIn:** [linkedin.com/in/karabo-mahlare](https://www.linkedin.com/in/karabo-mahlare/)  
-**Email:** mahlarekarabo.702@gmail.com
+<!-- Profile Views -->
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&style=flat"
+    alt="Profile views"
+  />
+</p>
