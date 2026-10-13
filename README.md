@@ -1,75 +1,82 @@
-# Hi, I'm Karabo Mahlare 👋
+# Karabo Mahlare
 
-### Software Engineer | Backend & AI
+### Software Engineer | Backend Development | AI Engineering
 
-📍 Johannesburg, South Africa  
-🎓 Mathematical Sciences Graduate | Software Engineering @ WeThinkCode_
+Johannesburg, South Africa  
+Mathematical Sciences Graduate | Software Engineering @ WeThinkCode_
 
-I build **backend systems, APIs, and AI-powered applications**, with a focus on writing maintainable software and understanding how systems work from development to deployment.
+Software engineer with a background in mathematical sciences and experience building **backend services, APIs, database-driven applications, and AI-enabled solutions**.
+
+My technical interests include backend engineering, AI systems, distributed architectures, and building reliable software from development through deployment.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Languages**  
 Python • Java • JavaScript • TypeScript • SQL • C
 
-**Backend**  
+**Backend & APIs**  
 FastAPI • Flask • Node.js • Express • Javalin • REST APIs • JWT
 
 **Databases**  
 PostgreSQL • MySQL • MongoDB • SQLite • Pinecone
 
 **AI Engineering**  
-LLM Integration • RAG • Vector Search • AI APIs • Langfuse
+LLM Integration • Retrieval-Augmented Generation (RAG) • Vector Search • AI APIs • Langfuse
 
-**DevOps & Tools**  
+**DevOps & Development Tools**  
 Docker • Git • GitLab CI/CD • GitHub Actions • Linux • Maven
 
-**Engineering Concepts**  
-OOP • Data Structures & Algorithms • Microservices • API Design • System Design • CI/CD
+**Software Engineering**  
+Object-Oriented Programming • Data Structures & Algorithms • Microservices • API Design • System Design • CI/CD
 
 ---
 
-## 🚀 Current Focus
+## Areas of Focus
 
-I'm currently strengthening my skills in:
+### Backend Engineering
+Designing and developing REST APIs, database-driven applications, authentication systems, and service-based architectures.
 
-- Backend and API development
-- AI application development
-- Microservices and distributed systems
-- Data engineering
-- Docker and CI/CD
-- Cloud deployment
+### AI Engineering
+Building applications that integrate LLMs, RAG pipelines, vector databases, document processing, and AI observability.
 
----
-
-## 💻 Projects
-
-### Backend & Microservices
-Building REST APIs and service-based applications with authentication, databases, API gateways, and asynchronous messaging.
-
-`Python` `Java` `FastAPI` `Javalin` `PostgreSQL` `ActiveMQ` `Docker`
-
-### AI Applications
-Building AI-powered applications using LLMs, RAG, document processing, vector databases, and observability.
-
-`Python` `RAG` `LLMs` `Pinecone` `MongoDB` `Langfuse`
-
-### Full-Stack Development
-Building database-driven applications with modern frontend and backend technologies.
-
-`React` `Node.js` `Flask` `PostgreSQL`
+### Software Architecture
+Exploring microservices, API gateways, service-to-service communication, asynchronous messaging, containerization, and scalable system design.
 
 ---
 
-## 🎯 Interests
+## Selected Projects
 
-`Software Engineering` • `Backend Engineering` • `AI Engineering` • `Data Engineering` • `System Design`
+### Microservices & API Architecture
+Backend architecture consisting of independently deployable services with authentication, API routing, database integration, and service-to-service communication.
+
+**Technologies:** Python, FastAPI, JWT, PostgreSQL, Docker
+
+### AI Knowledge Assistant
+RAG-based application for retrieving information from documents using LLMs and vector search.
+
+**Technologies:** Python, MongoDB, Pinecone, RAG, LLM APIs, Docker
+
+### Logistics Management System
+Service-oriented Java application incorporating REST APIs, persistent data, and asynchronous messaging.
+
+**Technologies:** Java, Javalin, ActiveMQ, Maven, SQL
+
+### Full-Stack Applications
+Database-driven web applications incorporating authentication, REST APIs, frontend interfaces, and backend services.
+
+**Technologies:** React, Node.js, Flask, PostgreSQL
 
 ---
 
-## 🤝 Connect
+## Professional Interests
 
-💼 [LinkedIn](https://www.linkedin.com/in/karabo-mahlare/)  
-📧 mahlarekarabo.702@gmail.com
+Backend Engineering • AI Engineering • Software Architecture • Data Engineering • Distributed Systems
+
+---
+
+## Contact
+
+**LinkedIn:** [linkedin.com/in/karabo-mahlare](https://www.linkedin.com/in/karabo-mahlare/)  
+**Email:** mahlarekarabo.702@gmail.com
