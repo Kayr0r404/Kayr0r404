@@ -10,14 +10,14 @@
 <!-- GitHub Stats -->
 <div align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api?username=Kayr0r404&show_icons=true&locale=en&theme=transparent"
     alt="Karabo's GitHub stats"
   />
 
   <br/><br/>
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Kayr0r404&show_icons=true&locale=en&layout=compact&theme=transparent"
     alt="Karabo's most used languages"
   />
 </div>
